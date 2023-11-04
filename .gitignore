@@ -55,8 +55,12 @@ dkms.conf
 build/
 sdkconfig
 sdkconfig.old
+sdkconfig.ci
 .vscode/
 **/sdkconfig
 **/sdkconfig.old
 /.vscode/**
 __pycache__/
+
+# Personal
+notes/
